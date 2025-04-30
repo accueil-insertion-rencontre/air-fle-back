@@ -1,0 +1,30 @@
+# Dépendances
+node_modules
+npm-debug.log
+
+# Dossiers de build
+dist
+build
+
+# Fichiers d'environnement
+.env
+.env.*
+!.env.example
+
+# Fichiers de git et d'éditeurs
+.git
+.github
+.gitignore
+.idea
+.vscode
+.prettierrc
+*.iml
+*.swp
+
+# Autres
+README.md
+LICENSE
+.DS_Store
+coverage
+.nyc_output
+*.log 
